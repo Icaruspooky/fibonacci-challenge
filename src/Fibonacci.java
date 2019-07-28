@@ -25,6 +25,7 @@ class Fibonacci {
         }
         return list;
     }
+
     public Boolean isFibonacci(Integer number) {
         return fibonacciList.contains(number);
     }
