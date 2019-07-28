@@ -1,3 +1,5 @@
+package main.java.br.com.fibonacci.challenge;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
